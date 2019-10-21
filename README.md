@@ -13,5 +13,5 @@ Hello [click here](www.google.com.pk)
 - aqsa
 -saleem
 
-Are you married [ ]
-are you single [x]
+[] Are you married
+[x] are you single 
